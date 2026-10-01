@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "F:/Web development"
+		},
+		{
+			"name": "Web-Development",
+			"path": "E:/webdev/Web-Development"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
